@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gamebook/static/css/main.f0f4bed5.css",
+    "main.js": "/gamebook/static/js/main.5653ba4d.js",
+    "static/js/453.c76d04fb.chunk.js": "/gamebook/static/js/453.c76d04fb.chunk.js",
+    "static/media/cyberpunk-city.gif": "/gamebook/static/media/cyberpunk-city.887124e64e9fd680138e.gif",
+    "static/media/lambo.gif": "/gamebook/static/media/lambo.e20baa99d0c1c27a22eb.gif",
+    "static/media/neonGirl.jpg": "/gamebook/static/media/neonGirl.a14b1e563a78a1512670.jpg",
+    "index.html": "/gamebook/index.html",
+    "main.f0f4bed5.css.map": "/gamebook/static/css/main.f0f4bed5.css.map",
+    "main.5653ba4d.js.map": "/gamebook/static/js/main.5653ba4d.js.map",
+    "453.c76d04fb.chunk.js.map": "/gamebook/static/js/453.c76d04fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f4bed5.css",
+    "static/js/main.5653ba4d.js"
+  ]
+}
